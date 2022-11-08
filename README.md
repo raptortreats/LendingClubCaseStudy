@@ -22,6 +22,7 @@
 - There are few bank ruptcies made in credit card loans too.
 - The less no of bank ruptcies are made in renewable energy where the purpose of borrowing loan very low too.
 - Finally we can understand that where the purpose of loan is borrowed only there the bankruptcies rate is high.
+- Checking the past payments if the person has no late fee that implies he pays the installements on date so better to approve loans and       those who have late fee rate high it might be loss for the company.
 
 
 ## Technologies Used
